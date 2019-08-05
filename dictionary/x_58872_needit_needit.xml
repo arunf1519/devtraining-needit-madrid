@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="1" type="collection">
+        <element label="Blatant" max_length="40" name="test_column" type="string"/>
+        <element label="Test column 2" max_length="40" name="test_column_2" type="string"/>
+        <element label="Data Structured" max_length="800" name="u_data_structure_1" type="data_structure"/>
+    </element>
+</database>
