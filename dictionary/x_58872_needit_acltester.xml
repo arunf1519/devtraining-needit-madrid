@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="AclTester" max_length="40" name="x_58872_needit_acltester" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Alcott Field" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Btwin Field" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cannondale Field" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Diamondback Field" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Eggcycle Field" max_length="40" name="u_string_5" type="string"/>
+    </element>
+</database>
